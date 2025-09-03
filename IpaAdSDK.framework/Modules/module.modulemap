@@ -1,0 +1,6 @@
+framework module IpaAdSDK {
+  umbrella header "IpaAdSDK.h"
+  export *
+
+  module * { export * }
+}
